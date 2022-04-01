@@ -5,10 +5,10 @@ class Box {
         'friction':1.0,
         'density':20,
 
-         'isStatic': true
-         'isStatic': false
-         'isStatic': true
-         'isStatic': false
+         //'isStatic': true,
+         'isStatic': false,
+         //'isStatic': true,
+        // 'isStatic': false,
 
     }
     this.body = Bodies.rectangle(x, y, width, height, options);

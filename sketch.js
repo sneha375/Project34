@@ -54,35 +54,33 @@ function setup() {
 function draw() {
   background(bg);
   Engine.update(engine);
-
   ground.display();
-
   box1.display();
   box2.display();
   box3.display();
-  box4.display();
-  box5.display();
-  box6.display();
-  box7.display();
-  box8.display();
-  box9.display();
-  box10.display();
-  box11.display();
-  box12.display();
-  box13.display();
-  box14.display();
-  box15.display();
-  box16.display();
-  box17.display();
-  box18.display();
-  box19.display();
-  box20.display();
-  box21.display();
-  box22.display();
-  box23.display();
-  box24.display();
-  box25.display();
-  box26.display();
+  box4.display()
+  box5.display()
+  box6.display()
+  box7.display()
+  box8.display()
+  box9.display()
+  box10.display()
+  box11.display()
+  box12.display()
+  box13.display()
+  box14.display()
+  box15.display()
+  box16.display()
+  box17.display()
+  box18.display()
+  box19.display()
+  box20.display()
+  box21.display()
+  box22.display()
+  box23.display()
+  box24.display()
+  box25.display()
+  box26.display()
 
   hero.display();
   rope.display();
